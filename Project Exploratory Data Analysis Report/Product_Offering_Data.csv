@@ -1,0 +1,16 @@
+Product_ID,Product_Name,Product_Type,Risk_Level,Target_Age_Group,Target_Income_Group
+1,Platinum Credit Card,Credit Card,Medium,,Medium
+2,Gold Savings Account,Savings Account,Low,,Low
+3,High-Yield Investment Account,Investment,High,,High
+4,Mortgage Loan,Loan,Medium,,High
+5,Auto Loan,Loan,Medium,,Medium
+6,Personal Loan,Loan,Medium,,Low
+7,Youth Savings Account,Savings Account,Low,,Low
+8,Retirement Investment Fund,Investment,High,,High
+9,Business Loan,Loan,Medium,,Medium
+10,Travel Credit Card,Credit Card,Medium,,Medium
+2,Gold Savings Account,Savings Account,Low,,Low
+10,Travel Credit Card,Credit Card,Medium,,Medium
+3,High-Yield Investment Account,Investment,High,,High
+6,Personal Loan,Loan,Medium,,Low
+1,Platinum Credit Card,Credit Card,Medium,,Medium
